@@ -12,11 +12,11 @@
       mostreMe(links.github) */
 
 const linksSocialMedia = {
-  github: 'jakeliny',
-  youtube: 'jakelinygracielly',
-  facebook: 'maykbrito',
-  instagram: 'jakeliny',
-  twitter: 'jakelinytec'
+  github: 'leonamsalomao',
+  youtube: 'leonamsalomao',
+  facebook: 'leonamsalomao',
+  instagram: 'leo_salomao7',
+  twitter: 'LeonamSalomao'
 }
 
 function changeSocialMediaLinks() {
