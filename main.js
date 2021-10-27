@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'leonamsalomao',
-  linkedin: 'leonam-salomao',
+  linkedin: 'in/leonam-salomao',
   facebook: 'leonamsalomao',
   instagram: 'leo_salomao7',
   twitter: 'LeonamSalomao'
