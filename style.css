@@ -24,7 +24,7 @@ main {
   border-radius: 10px;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 480px) {
   width: 375px;
   height: 812px;
   border: 2px solid;
