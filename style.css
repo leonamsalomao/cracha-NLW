@@ -21,11 +21,15 @@ main {
   width: 100vw;
   min-height: 812px;
   height: 10vh;
-  
-  /*width: 375px;
-  height: 812px;
-  border: 2px solid;*/
   border-radius: 10px;
+}
+
+@media only screen and (max-device-width: 480px) {
+  width: 375px;
+  height: 812px;
+  border: 2px solid;
+  border-radius: 10px;
+
 }
 
 .container {
